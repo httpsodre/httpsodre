@@ -1,9 +1,6 @@
 <h1 align="center">Sejam Bem-vindos ao Meu Mundo!</h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif" alt="Mario codando">
-</p>
-
+![gif inicial](https://i.pinimg.com/originals/23/3d/74/233d74f3fd24e51ed5e9dba0992fc868.gif)
 <!--
 **httpsodre/httpsodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
