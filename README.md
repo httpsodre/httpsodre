@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Olá, eu sou o Alan Sodré!| Engenheiro de Software em Formação</h1>
+<h2 align="center">🚀 Olá, eu sou o Alan Sodré!| Engenheiro de Software em Formação</h2>
 
 
 ![gif inicial](https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif)
