@@ -25,6 +25,11 @@ Atualmente, estudo **Engenharia de Software** e busco aprimorar minhas habilidad
 | HTML5  | [Certificado](https://drive.google.com/file/d/18bY5aosb_Ppsg4LN71FgUpsmaocZPRAe/view)
 | CSS3   | [Certificado](https://drive.google.com/file/d/1B6RTFGTnzgAwfWYRLAsM4ULaqJ5PlQXO/view)
 | CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
+| User Experience  | [Certificado](https://certificados.descomplica.com.br/graduacao/a39cc38b74f7312f6cbeaf64bdf35234ddc71f83aa31d99294cea23d747441be)
+| CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
+| CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
+| CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
+| CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
 <!--
 **httpsodre/httpsodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
