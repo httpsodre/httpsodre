@@ -3,10 +3,10 @@
 ![gif inicial](https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif)
 
 <h2 align="center"> 🚀 Sobre mim</h2>
-💻 Programador & Consultor 
-🎯 Em transição para tecnologia  
-📍 São Luís - MA 
-🔍 Explorando novas oportunidades  
+-💻 Programador & Consultor 
+-🎯 Em transição para tecnologia  
+-📍 São Luís - MA 
+-🔍 Explorando novas oportunidades  
 
 Atualmente, estudo **Engenharia de Software** e busco aprimorar minhas habilidades em **desenvolvimento web, bancos de dados e programação backend**.
 <!--
