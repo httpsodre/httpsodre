@@ -1,6 +1,6 @@
 ## Sejam Bem-vindos ao Meu Mundo!
 
-![gif inicial](https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif)
+![gif inicial](https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif)
 <!--
 **httpsodre/httpsodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
