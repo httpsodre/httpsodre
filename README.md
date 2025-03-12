@@ -23,6 +23,8 @@ Atualmente, estudo **Engenharia de Software** e busco aprimorar minhas habilidad
 | Cursos | Certificados |
 |--------|--------------|
 | HTML5  | [Certificado](https://drive.google.com/file/d/18bY5aosb_Ppsg4LN71FgUpsmaocZPRAe/view)
+|--------|--------------|
+| CSS3   | [Certificado](https://drive.google.com/file/d/1B6RTFGTnzgAwfWYRLAsM4ULaqJ5PlQXO/view)
 <!--
 **httpsodre/httpsodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
