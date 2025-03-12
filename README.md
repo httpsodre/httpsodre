@@ -32,7 +32,7 @@ Atualmente, estudo **Engenharia de Software** e busco aprimorar minhas habilidad
 | Ferramentas e aplicações da inteligência artificial  | [Certificado](https://certificados.descomplica.com.br/graduacao/84ea0229386b325ade4d2f7a894d60b6566185e42846c461433b07ee28be9cf0)
 
 -----
-![Alan Sodre GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Alan Sodré GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsodre&show_icons=true&theme=radical)
 <!--
 **httpsodre/httpsodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
