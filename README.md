@@ -26,7 +26,7 @@ Atualmente, estudo **Engenharia de Software** e busco aprimorar minhas habilidad
 | CSS3   | [Certificado](https://drive.google.com/file/d/1B6RTFGTnzgAwfWYRLAsM4ULaqJ5PlQXO/view)
 | CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
 | User Experience  | [Certificado](https://certificados.descomplica.com.br/graduacao/a39cc38b74f7312f6cbeaf64bdf35234ddc71f83aa31d99294cea23d747441be)
-| CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
+| Técnicas e Ferramentas para Projetos  | [Certificado](https://certificados.descomplica.com.br/graduacao/070776f7371b74eae5b6f129ffbb014695c874d578f0db46a66cdbaa25e7eacb)
 | CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
 | CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
 | CSS Moderno  | [Certificado](https://drive.google.com/file/d/1wpHF97EtdvMZ68SgV_-Jj_d9O42CWIhv/view)
