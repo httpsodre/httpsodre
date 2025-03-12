@@ -15,7 +15,7 @@
 Atualmente, estudo **Engenharia de Software** e busco aprimorar minhas habilidades em **desenvolvimento web, bancos de dados e programação backend**.
 
 ### Minhas Tecnologias 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80px">
 <!--
 **httpsodre/httpsodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
