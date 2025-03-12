@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-<h1>Sejam Bem-vindos ao Meu Mundo!<h1/>
-<div/>
+
+# Sejam Bem-vindos ao Meu Mundo!
+
 ![gif inicial](https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif)
 <!--
 **httpsodre/httpsodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
