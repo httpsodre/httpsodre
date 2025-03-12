@@ -15,7 +15,7 @@
 Atualmente, estudo **Engenharia de Software** e busco aprimorar minhas habilidades em **desenvolvimento web, bancos de dados e programação backend**.
 
 ## 📫 Entre em contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-sodré-204196333/)  
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/alan-sodré-204196333/)  
 ✉️ **E-mail:** camposalansodre@gmail.com  
 
 <!--
