@@ -1,7 +1,5 @@
 <h1 align="center">Sejam Bem-vindos ao Meu Mundo!</h1>
-
 -----
-
 ![gif inicial](https://i.pinimg.com/originals/7f/fa/71/7ffa71c12e21dece378a8472b9e1a878.gif)
 
 <h2 align="center"> 🚀 Sobre mim</h2>
