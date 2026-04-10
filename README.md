@@ -11,9 +11,11 @@ Atualmente curso Engenharia de Software e venho construindo uma base solida em l
 - Interfaces com React, TanStack Query e Tailwind CSS
 - SQL, modelagem de dados e boas praticas de engenharia
 
-## Repositorio em destaque
+## Repositorios em destaque
 
 - [JavaScript-Learning](https://github.com/httpsodre/JavaScript-Learning): trilha pratica de estudos com fundamentos da linguagem, logica, DOM e pequenos projetos.
+- [service-orders-api](https://github.com/httpsodre/service-orders-api): backend API em TypeScript e Fastify para gestao de ordens de servico.
+- [ops-control-center](https://github.com/httpsodre/ops-control-center): projeto full-stack com UI para operacoes, clientes, equipes e fluxo de atendimento.
 
 ## O que voce vai encontrar aqui
 
