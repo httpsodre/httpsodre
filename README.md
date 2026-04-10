@@ -1,36 +1,36 @@
-# Alan Sodre
+# Alan Sodré
 
-Desenvolvedor Full-Stack Junior em formacao, com foco em TypeScript, Node.js, React e PostgreSQL.
+Desenvolvedor Full-Stack Júnior em formação, com foco em TypeScript, Node.js, React e PostgreSQL.
 
-Atualmente curso Engenharia de Software e venho construindo uma base solida em logica, APIs, banco de dados, orientacao a objetos e desenvolvimento web. Antes da transicao para tecnologia, atuei por mais de 5 anos com operacoes, gestao de equipes, contratos e melhoria de processos, experiencia que hoje aplico na forma como penso software, produto e execucao.
+Atualmente curso Engenharia de Software e venho construindo uma base sólida em lógica, APIs, banco de dados, orientação a objetos e desenvolvimento web. Antes da transição para tecnologia, atuei por mais de 5 anos com operações, gestão de equipes, contratos e melhoria de processos, experiência que hoje aplico na forma como penso software, produto e execução.
 
 ## Foco atual
 
 - Desenvolvimento full-stack com JavaScript e TypeScript
 - APIs com Node.js, Fastify, Zod e Drizzle ORM
 - Interfaces com React, TanStack Query e Tailwind CSS
-- SQL, modelagem de dados e boas praticas de engenharia
+- SQL, modelagem de dados e boas práticas de engenharia
 
-## Repositorios em destaque
+## Repositórios em destaque
 
-- [JavaScript-Learning](https://github.com/httpsodre/JavaScript-Learning): trilha pratica de estudos com fundamentos da linguagem, logica, DOM e pequenos projetos.
-- [service-orders-api](https://github.com/httpsodre/service-orders-api): backend API em TypeScript e Fastify para gestao de ordens de servico.
-- [ops-control-center](https://github.com/httpsodre/ops-control-center): projeto full-stack com UI para operacoes, clientes, equipes e fluxo de atendimento.
+- [JavaScript-Learning](https://github.com/httpsodre/JavaScript-Learning): trilha prática de estudos com fundamentos da linguagem, lógica, DOM e pequenos projetos.
+- [service-orders-api](https://github.com/httpsodre/service-orders-api): API back-end em TypeScript e Fastify para gestão de ordens de serviço.
+- [ops-control-center](https://github.com/httpsodre/ops-control-center): projeto full-stack com interface para operações, clientes, equipes e fluxo de atendimento.
 
-## O que voce vai encontrar aqui
+## O que você vai encontrar aqui
 
-- Repositorios de estudo organizados por modulos
-- Exercicios praticos para consolidacao de fundamentos
-- Evolucao publica da minha transicao para desenvolvimento de software
+- Repositórios de estudo organizados por módulos
+- Exercícios práticos para consolidação de fundamentos
+- Evolução pública da minha transição para desenvolvimento de software
 
-## Proximos passos no GitHub
+## Próximos passos no GitHub
 
-- Publicar projetos full-stack com demonstracao real de front-end, back-end e banco de dados
-- Organizar repositorios com README mais forte, instrucoes de execucao e contexto tecnico
-- Transformar estudos em projetos apresentados como portfolio
+- Publicar projetos full-stack com demonstração real de front-end, back-end e banco de dados
+- Organizar repositórios com README mais forte, instruções de execução e contexto técnico
+- Transformar estudos em projetos apresentados como portfólio
 
 ## Contato
 
 - LinkedIn: [alan-campos-sodre-ferreira-204196333](https://www.linkedin.com/in/alan-campos-sodre-ferreira-204196333/)
 - Email: `camposalansodre@gmail.com`
-- Localizacao: Sao Luis - MA, Brasil
+- Localização: São Luís - MA, Brasil
