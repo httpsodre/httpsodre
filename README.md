@@ -1,48 +1,48 @@
-# Alan Sodre
+# Alan Sodré
 
-Estudante de Engenharia de Software em transicao para Desenvolvimento Web.
+Estudante de Engenharia de Software em transição para Desenvolvimento Web.
 
-Atualmente estou reconstruindo minha base tecnica com foco em JavaScript,
-TypeScript, React, Node.js e boas praticas de engenharia. Antes da tecnologia,
-atuei por mais de 5 anos com operacoes, gestao de equipes, contratos e melhoria
-de processos, experiencia que hoje aplico na forma como penso software,
-produto e execucao.
+Atualmente estou reconstruindo minha base técnica com foco em JavaScript,
+TypeScript, React, Node.js e boas práticas de engenharia. Antes da tecnologia,
+atuei por mais de 5 anos com operações, gestão de equipes, contratos e melhoria
+de processos, experiência que hoje aplico na forma como penso software,
+produto e execução.
 
 ## Foco atual
 
-- Fundamentos de JavaScript, DOM, logica e organizacao de codigo
-- APIs com Node.js, TypeScript, Fastify e validacao de dados
+- Fundamentos de JavaScript, DOM, lógica e organização de código
+- APIs com Node.js, TypeScript, Fastify e validação de dados
 - Interfaces com React, TypeScript e Vite
-- SQL, modelagem de dados, testes e documentacao tecnica
+- SQL, modelagem de dados, testes e documentação técnica
 
-## Repositorios principais
+## Repositórios principais
 
 - [JavaScript-Learning](https://github.com/httpsodre/JavaScript-Learning):
-  trilha publica de estudos em JavaScript, com exercicios, desafios e pequenos
+  trilha pública de estudos em JavaScript, com exercícios, desafios e pequenos
   projetos.
 - [service-orders-api](https://github.com/httpsodre/service-orders-api):
-  API em evolucao para gestao de ordens de servico, usando TypeScript, Fastify
-  e validacao com Zod.
+  API em evolução para gestão de ordens de serviço, usando TypeScript, Fastify
+  e validação com Zod.
 - [ops-control-center](https://github.com/httpsodre/ops-control-center):
-  painel operacional em evolucao com React, TypeScript e uma API Fastify para
+  painel operacional em evolução com React, TypeScript e uma API Fastify para
   dados de dashboard.
 
-## Como estou organizando minha evolucao
+## Como estou organizando minha evolução
 
-Este GitHub esta sendo tratado como uma vitrine tecnica enxuta: poucos
-repositorios, READMEs claros, codigo executavel e progresso verificavel. A ideia
-nao e acumular projetos pequenos, mas transformar estudos em entregas que um
+Este GitHub está sendo tratado como uma vitrine técnica enxuta: poucos
+repositórios, READMEs claros, código executável e progresso verificável. A ideia
+não é acumular projetos pequenos, mas transformar estudos em entregas que um
 recrutador ou tech lead consiga entender rapidamente.
 
-## Proximos marcos
+## Próximos marcos
 
-- Melhorar os exercicios de JavaScript com README especifico e demonstracoes
-- Evoluir a API de ordens de servico com persistencia, testes e documentacao
+- Melhorar os exercícios de JavaScript com README específico e demonstrações
+- Evoluir a API de ordens de serviço com persistência, testes e documentação
 - Integrar front-end e back-end em projetos com fluxo de dados real
-- Publicar projetos com instrucoes de execucao, capturas de tela e deploy
+- Publicar projetos com instruções de execução, capturas de tela e deploy
 
 ## Contato
 
 - LinkedIn: [alan-campos-sodre-ferreira-204196333](https://www.linkedin.com/in/alan-campos-sodre-ferreira-204196333/)
 - Email: `camposalansodre@gmail.com`
-- Localizacao: Sao Luis - MA, Brasil
+- Localização: São Luís - MA, Brasil
