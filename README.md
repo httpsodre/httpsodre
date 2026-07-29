@@ -20,12 +20,6 @@ produto e execução.
 - [JavaScript-Learning](https://github.com/httpsodre/JavaScript-Learning):
   trilha pública de estudos em JavaScript, com exercícios, desafios e pequenos
   projetos.
-- [service-orders-api](https://github.com/httpsodre/service-orders-api):
-  API em evolução para gestão de ordens de serviço, usando TypeScript, Fastify
-  e validação com Zod.
-- [ops-control-center](https://github.com/httpsodre/ops-control-center):
-  painel operacional em evolução com React, TypeScript e uma API Fastify para
-  dados de dashboard.
 
 ## Como estou organizando minha evolução
 
@@ -37,8 +31,6 @@ recrutador ou tech lead consiga entender rapidamente.
 ## Próximos marcos
 
 - Melhorar os exercícios de JavaScript com README específico e demonstrações
-- Evoluir a API de ordens de serviço com persistência, testes e documentação
-- Integrar front-end e back-end em projetos com fluxo de dados real
 - Publicar projetos com instruções de execução, capturas de tela e deploy
 
 ## Contato
